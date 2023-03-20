@@ -18,7 +18,7 @@ function active($currect_page){
                 <div class="position-relative text-center">
                     <h3 class="main-head h-banner-h-width banner-h-fs text-center mx-auto">Discover the Secret to Perfect Rice Every Time!</h3>
                     <div class="text-center text-lg-end h-banner-butn-div mb-5 mb-sm-0">
-                        <a class="h-banner-butn text-decoration-none p-3 fs-5 rounded rounded-5 text-white" href="#">Our Products <img class="ps-2 butn-arrow" src="assets/images/h-banner-butn-arrow.png" alt=""></a>
+                        <a class="h-banner-butn text-decoration-none p-3 fs-5 rounded rounded-5 text-white" href="#">Our Products <img class="ps-2 butn-arrow" src="assets/images/h-banner-butn-arrow.svg" alt=""></a>
                     </div>
                 </div>
             </div>
@@ -37,7 +37,7 @@ function active($currect_page){
                         <p class="h-s1-p fs-3 mx-auto pt-5 pb-4 text-center">We are a company that specializes in bringing you the finest products under five distinct brands - Akbar, Alhind, Alif Laila, Firdous, and Abusalam. Each brand has its unique focus, but all are united by a passion for quality and excellence.</p>
                         <p class="h-s1-p2 mx-auto pb-4 text-center">With our years of experience in the industry, we have become experts in bringing you the very best in [mention the types of products you offer]. Our commitment to exceptional quality, attention to detail, and customer satisfaction has made us a trusted name in the industry. Thank you for choosing our products, and we look forward to bringing you the very best that our brands have to offer.</p>
                             <div class="z-3 position-relative my-5 text-center">
-                                <a class="h-banner-butn text-decoration-none p-3 fs-5 rounded rounded-5 text-white" href="#">Read our story <img class="ps-2 butn-arrow" src="assets/images/h-banner-butn-arrow.png" alt=""></a>
+                                <a class="h-banner-butn text-decoration-none p-3 fs-5 rounded rounded-5 text-white" href="#">Read our story <img class="ps-2 butn-arrow" src="assets/images/h-banner-butn-arrow.svg" alt=""></a>
                             </div>
                         <img class="position-absolute h-s1-grain-img-1" src="assets/images/h-s1-grain-img.png" alt="">
                         <img class="position-absolute h-s1-grain-img-2" src="assets/images/h-s1-grain-img.png" alt="">
@@ -60,53 +60,8 @@ function active($currect_page){
                 </div>
             </div>
             <div>
-                <!-- <div class="text-center d-flex my-5 justify-content-center">
-                    <a class="h-s2-filter-h text-decoration-none d-inline-bock fs-5 rounded border mx-2">Akbar</a>
-                    <a class="h-s2-filter-h text-decoration-none d-inline-bock fs-5 rounded border mx-2">Alhind</a>
-                    <a class="h-s2-filter-h text-decoration-none d-inline-bock fs-5 rounded border mx-2">Alif Laila</a>
-                    <a class="h-s2-filter-h text-decoration-none d-inline-bock fs-5 rounded border mx-2">Firdous</a>
-                    <a class="h-s2-filter-h text-decoration-none d-inline-bock fs-5 rounded border mx-2">Abusalam</a>
-                </div>
-                <div class="row gy-3 gy-sm-5 gx-0">
-                    <div class="col-lg-6 col-md-6 col-sm-6 bg-white d-flex rounded-start-5 h-s2-product-div">
-                        <div class="p-5 pe-0 align-self-end h-s2-fliter-text-div">
-                            <h4 class="h-s2-product-h fs-3 mb-3">Akbar xxl gold 26KG</h4>
-                            <p  class="h-s2-product-p m-0">Food Oils</p>
-                        </div>
-                        <div class="h-s2-filter-img">
-                            <img class="img-fluid" src="assets/images/Akbarxxlgold26KG.png" alt="">
-                        </div>
-                    </div>
-                    <div class="col-lg-6 col-md-6 col-sm-6 bg-white d-flex rounded-end-5 h-s2-product-div">
-                        <div class="h-s2-filter-img align-self-end">
-                            <img class="img-fluid" src="assets/images/Akbarxxlwhite26KG.png" alt="">
-                        </div>
-                        <div class="p-5 ps-0 h-s2-fliter-text-div">
-                            <h4 class="h-s2-product-h fs-3 mb-3">Akbar xxl white 26KG</h4>
-                            <p  class="h-s2-product-p m-0">Food Oils</p>
-                        </div>
-                    </div>
-                    <div class="col-lg-6 col-md-6 col-sm-6 bg-white d-flex rounded-start-5 h-s2-product-div">
-                        <div class="p-5 pe-0 align-self-end h-s2-fliter-text-div">
-                            <h4 class="h-s2-product-h fs-3 mb-3">Akbar xxl gold 26KG</h4>
-                            <p  class="h-s2-product-p m-0">Food Oils</p>
-                        </div>
-                        <div class="h-s2-filter-img">
-                            <img class="img-fluid" src="assets/images/Akbarxxlgold26KG-2.png" alt="">
-                        </div>
-                    </div>
-                    <div class="col-lg-6 col-md-6 col-sm-6 bg-white d-flex rounded-end-5 h-s2-product-div">
-                        <div class="h-s2-filter-img align-self-end">
-                            <img class="img-fluid" src="assets/images/Akbarrozanawhite26KG.png" alt="">
-                        </div>
-                        <div class="p-5 ps-0 h-s2-fliter-text-div">
-                            <h4 class="h-s2-product-h fs-3 mb-3">Akbar rozana white 26KG</h4>
-                            <p  class="h-s2-product-p m-0">Food Oils</p>
-                        </div>
-                    </div>
-                </div> -->
                 <div class="text-center d-flex my-5 justify-content-center" id="myBtnContainer">
-                    <a class="h-s2-filter-h text-decoration-none d-inline-bock fs-5 rounded border mx-2 active"  onclick="filterSelection('akbar')">Akbar</a>
+                    <a class="h-s2-filter-h text-decoration-none d-inline-bock fs-5 rounded border mx-2 active" onclick="filterSelection('akbar')">Akbar</a>
                     <a class="h-s2-filter-h text-decoration-none d-inline-bock fs-5 rounded border mx-2" onclick="filterSelection('alhind')">Alhind</a>
                     <a class="h-s2-filter-h text-decoration-none d-inline-bock fs-5 rounded border mx-2" onclick="filterSelection('alif-laila')">Alif Laila</a>
                     <a class="h-s2-filter-h text-decoration-none d-inline-bock fs-5 rounded border mx-2" onclick="filterSelection('firdous')">Firdous</a>
@@ -157,8 +112,6 @@ function active($currect_page){
     <!-- footer  -->
     <?php include 'assets/includes/footer.php';?>
 
-    <!-- j Query  -->
-        <!-- filter-tab  -->
     <!-- javascript -->
         <!-- bootstrap  -->
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
@@ -173,14 +126,13 @@ function active($currect_page){
             var x, i;
             x = document.getElementsByClassName("filterDiv");
             if (c == "all") c = "";
-            // Add the "show" class (display:block) to the filtered elements, and remove the "show" class from the elements that are not selected
+            
             for (i = 0; i < x.length; i++) {
                 w3RemoveClass(x[i], "show");
                 if (x[i].className.indexOf(c) > -1) w3AddClass(x[i], "show");
             }
             }
 
-            // Show filtered elements
             function w3AddClass(element, name) {
             var i, arr1, arr2;
             arr1 = element.className.split(" ");
@@ -192,7 +144,7 @@ function active($currect_page){
             }
             }
 
-            // Hide elements that are not selected
+
             function w3RemoveClass(element, name) {
             var i, arr1, arr2;
             arr1 = element.className.split(" ");
@@ -205,9 +157,8 @@ function active($currect_page){
             element.className = arr1.join(" ");
             }
 
-            // Add active class to the current control button (highlight it)
             var btnContainer = document.getElementById("myBtnContainer");
-            var btns = btnContainer.getElementsByClassName("btn");
+            var btns = btnContainer.getElementsByClassName("h-s2-filter-h");
             for (var i = 0; i < btns.length; i++) {
             btns[i].addEventListener("click", function () {
                 var current = document.getElementsByClassName("active");
@@ -215,7 +166,6 @@ function active($currect_page){
                 this.className += " active";
             });
             }
-
         </script>
 </body>
 </html>

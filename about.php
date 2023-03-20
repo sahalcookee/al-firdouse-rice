@@ -30,7 +30,7 @@ function active($currect_page){
             </div>
         </div>
         <div class="text-end abt-ban-butn-d">
-            <a class="h-banner-butn text-decoration-none p-3 fs-5 rounded rounded-5 text-white abt-ban-btn" href="#">Our Products <img class="ps-2 butn-arrow" src="assets/images/h-banner-butn-arrow.png" alt=""></a>
+            <a class="h-banner-butn text-decoration-none p-3 fs-5 rounded rounded-5 text-white abt-ban-btn" href="#">Our Products <img class="ps-2 butn-arrow" src="assets/images/h-banner-butn-arrow.svg" alt=""></a>
         </div>
     </section>
     
@@ -44,7 +44,7 @@ function active($currect_page){
                         <p class="abt-s1-p1 text-uppercase">Quality You Can Count On</p>
                         <h3 class="abt-s1-h mb-4 mb-lg-5 pb-4 pb-lg-5">Healthy, Nutritious Rice for Every Meal</h3>
                         <div class="pt-4 pt-lg-5 ms-4 ps-2 mb-5">
-                            <a class="h-banner-butn text-decoration-none p-3 fs-5 rounded rounded-5 text-white" href="#">Our Products <img class="ps-2 butn-arrow" src="assets/images/h-banner-butn-arrow.png" alt=""></a>
+                            <a class="h-banner-butn text-decoration-none p-3 fs-5 rounded rounded-5 text-white" href="#">Our Products <img class="ps-2 butn-arrow" src="assets/images/h-banner-butn-arrow.svg" alt=""></a>
                         </div>
                     </div>
                     <div class="col-lg-5">

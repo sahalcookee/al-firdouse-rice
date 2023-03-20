@@ -25,7 +25,7 @@
                     <a class="text-decoration-none p-2 mx-3 text-dark nav-a <?php active('brands.php');?>" href="#">Brands</a>
                 </div>
                 <div class="col-lg-4 text-center position-relative">
-                    <a href="#"><img class="nav-logo-img position-absolute start-50 translate-middle" src="assets/images/logo.png" alt=""></a>
+                    <a href="#"><img class="nav-logo-img position-absolute start-50 translate-middle" src="assets/images/logo.svg" alt=""></a>
                 </div>
                 <div class="col-lg-4 justify-content-end d-flex">
                     <a class="text-decoration-none p-2 mx-2 text-dark nav-a <?php active('products.php');?>" href="#">Products Range</a>
@@ -37,13 +37,13 @@
         <!-- responsive-nav  -->
         <nav class="navbar sticky-top d-lg-none">
             <div class="container-fluid">
-                <a class="navbar-brand" href="#"><img class="w-75 resp-logo" src="assets/images/logo.png" alt=""></a>
+                <a class="navbar-brand" href="#"><img class="w-75 resp-logo" src="assets/images/logo.svg" alt=""></a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbar" aria-controls="offcanvasNavbar">
                 <span><img class="resp-toggler" src="assets/images/toggler.png" alt=""></span>
                 </button>
                 <div class="offcanvas offcanvas-end resp-nav-bg" tabindex="-1" id="offcanvasNavbar" aria-labelledby="offcanvasNavbarLabel">
                 <div class="offcanvas-header">
-                    <h5 class="offcanvas-title" id="offcanvasNavbarLabel"><img class="w-50" src="assets/images/logo.png" alt=""></h5>
+                    <h5 class="offcanvas-title" id="offcanvasNavbarLabel"><img class="w-50" src="assets/images/logo.svg" alt=""></h5>
                     <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
                 </div>
                 <div class="offcanvas-body">

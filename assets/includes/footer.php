@@ -3,7 +3,7 @@
             <div class="container-fluid">
                 <div class="rounded-5 footer-bg text-center mt-3 pt-5">
                     <div class="position-relative">
-                        <img class="position-absolute footer-logo translate-middle" src="assets/images/footer-logo.png" alt="">
+                        <img class="position-absolute footer-logo translate-middle" src="assets/images/footer-logo.svg" alt="">
                     </div>
                     <div class="pt-3">
                         <p class="footer-p pt-5 fs-5">2118 Thornridge Cir. Syracuse, Connecticut 35624</p>
