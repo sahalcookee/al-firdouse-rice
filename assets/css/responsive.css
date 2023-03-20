@@ -1,0 +1,119 @@
+@media (min-width: 1400px) {
+    .h-s2-ar-brand-div{
+        left: 226px;
+    }
+}
+@media (max-width: 1244px) {
+    .nav-a{
+        margin: 0px 0px !important;
+        padding: 6px !important;
+    }
+    .banner-rice1-img,.banner-rice2-img,.footer-rice1-img,.footer-rice2-img{
+        width: 15%;
+    }
+    .h-s2-ar-brand-div{
+        left: 51px;
+    }
+}
+@media (min-width: 992.8px) and (max-width: 1198.98px) {
+    /* ---------------- about -------------- */
+    .abt-s2-ul li{
+        font-size: 16px;
+    }
+}
+@media (max-width: 992.8px) {
+    .h-s2-ar-brand-div{
+        left: 19px;
+    }
+    .h-banner-butn-div{
+        margin-right: 0px;
+    }
+    .banner-rice1-img,.banner-rice2-img,.footer-rice1-img,.footer-rice2-img{
+        width: 11%;
+    }
+    /* --------------- about --------------- */
+    .abt-s1-img{
+        position: unset;
+        margin-left: 5.6%;
+        margin-top: -18%;
+    }
+    .about-banner-sec{
+        margin-top: 0px !important;
+        padding-top: 0px;
+    }
+    .about-banner-h{
+        font-size: 36px;
+    }
+    .abt-s1-p{
+        font-size: 26px !important;
+    }
+    .abt-s1-h{
+        font-size: 40px;
+    }
+    .abt-s2-img{
+        width: 50%;
+    }
+}
+@media (max-width: 768.8px){
+    .h-s2-fliter-text-div{
+        min-width: 0px;
+    }
+    .h-s2-filter-h{
+        font-size: 17px !important;
+    }
+    .h-s1-grain-img-2,.h-s1-grain-img-1{
+        width: 20%;
+    }
+    .banner-h-fs{
+        font-size: 41px;
+    }
+    .h-s1-p{
+        font-size: 20px !important;
+    }
+    .h-s1-p2{
+        font-size: 18px !important;
+    }
+    .footer-logo{
+        width: 26%;
+    }
+    /* -------------------- about ---------------- */
+    .abt-ban-img{
+        width: 30%;
+    }
+}
+@media (max-width: 576.5px){
+    .h-s2-product-div{
+        border-radius: 0px !important;
+    }
+    .banner-h-fs{
+        font-size: 30px;
+    }
+    .h-s2-h{
+        font-size: 28px;
+    }
+    .h-banner-butn{
+        font-size: 17px !important;
+    }
+    .h-s2-filter-h{
+        font-size: 12px !important;
+        height: 35px;
+        line-height: 35px;
+    }
+    .copyright-link{
+        font-size: 10px;
+    }
+    .h-banner-butn{
+        font-size: 17px !important;
+    }
+    .resp-logo{
+        width: 45% !important;
+    }
+    .resp-toggler{
+        width: 70%;
+    }
+    /* ---------------- about ------------- */
+    .abt-s1-img{
+        transform: scaleX(-1);
+        margin-left: -5.6%;
+    }
+}
