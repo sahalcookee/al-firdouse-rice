@@ -30,7 +30,7 @@ function active($currect_page){
             </div>
         </div>
         <div class="text-end abt-ban-butn-d">
-            <a class="h-banner-butn text-decoration-none p-3 fs-5 rounded rounded-5 text-white abt-ban-btn" href="#">Our Products <img class="ps-2 butn-arrow" src="assets/images/h-banner-butn-arrow.svg" alt=""></a>
+            <a class="h-banner-butn text-decoration-none p-3 fs-5 rounded rounded-5 text-white abt-ban-btn" href="brands.php">Our Products <img class="ps-2 butn-arrow" src="assets/images/h-banner-butn-arrow.svg" alt=""></a>
         </div>
     </section>
     
@@ -42,9 +42,9 @@ function active($currect_page){
                     <div class="col-lg-7 p-5 text-start position-relative">
                         <p class="abt-s1-p1 text-uppercase">Get in touch with the Rice Experts</p>
                         <h3 class="abt-s1-h mb-3 mb-lg-5 pb-3">Contact<br>Information</h3>
-                        <a href="#" class="footer-p fs-5 d-block text-decoration-none mb-3 cnt-link">2118 Thornridge Cir. Syracuse, Connecticut 35624</a>
-                        <a href="#" class="footer-p fs-5 d-block text-decoration-none mb-3 cnt-link">+91 9374653833</a>
-                        <a href="#" class="footer-p fs-5 d-block text-decoration-none mb-3 cnt-link">alfirdousequalityrice@gmail.com</a>
+                        <a href="#" class="footer-p fs-5 d-block text-decoration-none mb-3">2118 Thornridge Cir. Syracuse, Connecticut 35624</a>
+                        <a href="#" class="footer-p fs-5 d-block text-decoration-none mb-3">+91 9374653833</a>
+                        <a href="#" class="footer-p fs-5 d-block text-decoration-none mb-3">alfirdousequalityrice@gmail.com</a>
                         <h6 class="about-banner-p-1 cnt-s1-follow mb-1 text-uppercase mt-3 mt-lg-5 pt-5">follow us on</h6>
                         <div class="d-flex justify-content-start my-3">
                             <a class="me-4 footer-social" href="#"><img src="assets/images/footer-facebook.png" alt=""></a>

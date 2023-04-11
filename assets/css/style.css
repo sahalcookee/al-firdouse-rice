@@ -190,6 +190,11 @@ body{
 .footer-p{
     color: var(--footer-p-color);
     font-family: var(--cabinet-m);
+    transition: all 0.3s ease;
+}
+.footer-p:hover{
+    color: var(--link-hover-color);
+    transition: all 0.3s ease;
 }
 .footer-logo{
     -webkit-filter: drop-shadow(32px 28px 44px rgb(0 0 0 / 10%));
@@ -293,13 +298,6 @@ body{
 
 /*------------------- contact------------------- */
 /* section-1 */
-.cnt-link{
-    transition: all 0.3s ease;
-}
-.cnt-link:hover{
-    color: var(--link-hover-color);
-    transition: all 0.3s ease;
-}
 .cnt-s1-follow{
     color: var(--bp-color);
     letter-spacing: 3px;

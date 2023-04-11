@@ -30,7 +30,7 @@ function active($currect_page){
             </div>
         </div>
         <div class="text-end abt-ban-butn-d">
-            <a class="h-banner-butn text-decoration-none p-3 fs-5 rounded rounded-5 text-white abt-ban-btn" href="#">Our Products <img class="ps-2 butn-arrow" src="assets/images/h-banner-butn-arrow.svg" alt=""></a>
+            <a class="h-banner-butn text-decoration-none p-3 fs-5 rounded rounded-5 text-white abt-ban-btn" href="brands.php">Our Products <img class="ps-2 butn-arrow" src="assets/images/h-banner-butn-arrow.svg" alt=""></a>
         </div>
     </section>
     
@@ -42,7 +42,7 @@ function active($currect_page){
                 <img class="py-3" src="assets/images/brd-firdous-logo.svg" alt="">
                 <img class="py-3" src="assets/images/brd-alhind-logo.svg" alt="">
                 <img class="py-3" src="assets/images/brd-aliflaila-logo.svg" alt="">
-                <img class="py-3" src="assets/images/brd-akbarcity-logo.svg" alt="">
+                <img class="py-3" src="assets/images/brd-akbarcity-logo.png" alt="">
                 <img class="py-3" src="assets/images/brd-abusalam-logo.svg" alt="">
             </div>
         </div>
@@ -57,7 +57,7 @@ function active($currect_page){
                         <div class="d-flex justify-content-around p-5">
                             <div class="text-center">
                                 <img class="img-fluid brd-pro-img" src="assets/images/brd-firdous-rice.png" alt="">
-                                <p class="about-banner-p-1 mt-3 text-black">Product Title</p>
+                                <p class="about-banner-p-1 mt-3 text-black">Biriyani Rice</p>
                             </div>
                         </div>
                         <span class="brd-card-span w-100 d-block position-relative">
@@ -77,11 +77,11 @@ function active($currect_page){
                         <div class="d-flex justify-content-around p-5 flex-wrap flex-md-nowrap">
                             <div class="text-center py-3 py-md-0">
                                 <img class="img-fluid brd-pro-img" src="assets/images/brd-alhind-rice-1.png" alt="">
-                                <p class="about-banner-p-1 mt-3 text-black">Product Title</p>
+                                <p class="about-banner-p-1 mt-3 text-black">Alhind Bukhari</p>
                             </div>
                             <div class="text-center py-3 py-md-0">
                                 <img class="img-fluid brd-pro-img" src="assets/images/brd-alhind-rice-2.png" alt="">
-                                <p class="about-banner-p-1 mt-3 text-black">Product Title</p>
+                                <p class="about-banner-p-1 mt-3 text-black">Alhind Golden Sella</p>
                             </div>
                         </div>
                         <span class="brd-card-span w-100 d-block position-relative">
@@ -101,7 +101,7 @@ function active($currect_page){
                         <div class="d-flex justify-content-around p-5">
                             <div class="text-center">
                                 <img class="img-fluid brd-pro-img" src="assets/images/brd-abusalam-rice.png" alt="">
-                                <p class="about-banner-p-1 mt-3 text-black">Product Title</p>
+                                <p class="about-banner-p-1 mt-3 text-black">Biriyani Rice</p>
                             </div>
                         </div>
                         <span class="brd-card-span w-100 d-block position-relative">
@@ -121,7 +121,7 @@ function active($currect_page){
                         <div class="d-flex justify-content-around p-5">
                             <div class="text-center">
                                 <img class="img-fluid brd-pro-img" src="assets/images/brd-aliflaila-rice.png" alt="">
-                                <p class="about-banner-p-1 mt-3 text-black">Product Title</p>
+                                <p class="about-banner-p-1 mt-3 text-black">Burdwan Khaima</p>
                             </div>
                         </div>
                         <span class="brd-card-span w-100 d-block position-relative">
@@ -141,24 +141,24 @@ function active($currect_page){
                         <div class="d-flex justify-content-around p-5 flex-wrap flex-md-nowrap">
                             <div class="text-center py-3 py-md-0">
                                 <img class="img-fluid brd-pro-img" src="assets/images/brd-akbarcity-rice-1.png" alt="">
-                                <p class="about-banner-p-1 mt-3 text-black">Product Title</p>
+                                <p class="about-banner-p-1 mt-3 text-black">Supreme White Sella</p>
                             </div>
                             <div class="text-center py-3 py-md-0">
                                 <img class="img-fluid brd-pro-img" src="assets/images/brd-akbarcity-rice-2.png" alt="">
-                                <p class="about-banner-p-1 mt-3 text-black">Product Title</p>
+                                <p class="about-banner-p-1 mt-3 text-black">Premium White Sella</p>
                             </div>
                             <div class="text-center py-3 py-md-0">
                                 <img class="img-fluid brd-pro-img" src="assets/images/brd-akbarcity-rice-3.png" alt="">
-                                <p class="about-banner-p-1 mt-3 text-black">Product Title</p>
+                                <p class="about-banner-p-1 mt-3 text-black">Supreme Golden Sella</p>
                             </div>
                             <div class="text-center py-3 py-md-0">
                                 <img class="img-fluid brd-pro-img" src="assets/images/brd-akbarcity-rice-4.png" alt="">
-                                <p class="about-banner-p-1 mt-3 text-black">Product Title</p>
+                                <p class="about-banner-p-1 mt-3 text-black">Premium Golden Sella</p>
                             </div>
                         </div>
                         <span class="brd-card-span w-100 d-block position-relative">
                             <div class="brd-card-logo-div position-absolute translate-middle d-flex align-items-center justify-content-center p-3">
-                                <img class="img-fluid" src="assets/images/brd-akbarcity-logo.svg" alt="">
+                                <img class="img-fluid" src="assets/images/brd-akbarcity-logo.png" alt="">
                             </div>
                         </span>
                         <div class="p-5 position-relative overflow-hidden">

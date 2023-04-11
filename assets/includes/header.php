@@ -22,14 +22,12 @@
                 <div class="col-lg-4 d-flex">
                     <a class="text-decoration-none p-2 mx-2 text-dark nav-a <?php active('index.php');?>" href="index.php">Home</a>
                     <a class="text-decoration-none p-2 mx-3 text-dark nav-a <?php active('about.php');?>" href="about.php">About</a>
-                    <a class="text-decoration-none p-2 mx-3 text-dark nav-a <?php active('brands.php');?>" href="brands.php">Brands</a>
                 </div>
                 <div class="col-lg-4 text-center position-relative">
-                    <a href="#"><img class="nav-logo-img position-absolute start-50 translate-middle" src="assets/images/logo.svg" alt=""></a>
+                    <a href="index.php"><img class="nav-logo-img position-absolute start-50 translate-middle" src="assets/images/logo.svg" alt=""></a>
                 </div>
                 <div class="col-lg-4 justify-content-end d-flex">
-                    <a class="text-decoration-none p-2 mx-2 text-dark nav-a <?php active('products.php');?>" href="#">Products Range</a>
-                    <a class="text-decoration-none p-2 mx-3 text-dark nav-a <?php active('insights.php');?>" href="#">Insights</a>
+                    <a class="text-decoration-none p-2 mx-3 text-dark nav-a <?php active('brands.php');?>" href="brands.php">Brands</a>
                     <a class="text-decoration-none p-2 mx-3 text-dark nav-a <?php active('contacts.php');?>" href="contacts.php">Contacts</a>
                 </div>
             </div>
@@ -37,7 +35,7 @@
         <!-- responsive-nav  -->
         <nav class="navbar sticky-top d-lg-none">
             <div class="container-fluid">
-                <a class="navbar-brand" href="#"><img class="w-75 resp-logo" src="assets/images/logo.svg" alt=""></a>
+                <a class="navbar-brand" href="index.php"><img class="w-75 resp-logo" src="assets/images/logo.svg" alt=""></a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbar" aria-controls="offcanvasNavbar">
                 <span><img class="resp-toggler" src="assets/images/toggler.png" alt=""></span>
                 </button>
@@ -51,8 +49,6 @@
                         <a class="text-decoration-none p-2 mx-2 text-dark nav-a <?php active('index.php');?>" href="index.php">Home</a>
                         <a class="text-decoration-none p-2 mx-3 text-dark nav-a <?php active('about.php');?>" href="about.php">About</a>
                         <a class="text-decoration-none p-2 mx-3 text-dark nav-a <?php active('brands.php');?>" href="brands.php">Brands</a>
-                        <a class="text-decoration-none p-2 mx-2 text-dark nav-a <?php active('products.php');?>" href="#">Products Range</a>
-                        <a class="text-decoration-none p-2 mx-3 text-dark nav-a <?php active('insights.php');?>" href="#">Insights</a>
                         <a class="text-decoration-none p-2 mx-3 text-dark nav-a <?php active('contacts.php');?>" href="contacts.php">Contacts</a>
                     </div>
                 </div>
