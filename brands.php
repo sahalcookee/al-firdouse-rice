@@ -77,11 +77,11 @@ function active($currect_page){
                         <div class="d-flex justify-content-around p-5 flex-wrap flex-md-nowrap">
                             <div class="text-center py-3 py-md-0">
                                 <img class="img-fluid brd-pro-img" src="assets/images/brd-alhind-rice-1.png" alt="">
-                                <p class="about-banner-p-1 mt-3 text-black">Alhind Bukhari</p>
+                                <p class="about-banner-p-1 mt-3 text-black">Bukhari Basmati Rice</p>
                             </div>
                             <div class="text-center py-3 py-md-0">
                                 <img class="img-fluid brd-pro-img" src="assets/images/brd-alhind-rice-2.png" alt="">
-                                <p class="about-banner-p-1 mt-3 text-black">Alhind Golden Sella</p>
+                                <p class="about-banner-p-1 mt-3 text-black">Golden Basmati Rice</p>
                             </div>
                         </div>
                         <span class="brd-card-span w-100 d-block position-relative">
@@ -121,7 +121,7 @@ function active($currect_page){
                         <div class="d-flex justify-content-around p-5">
                             <div class="text-center">
                                 <img class="img-fluid brd-pro-img" src="assets/images/brd-aliflaila-rice.png" alt="">
-                                <p class="about-banner-p-1 mt-3 text-black">Burdwan Khaima</p>
+                                <p class="about-banner-p-1 mt-3 text-black">Burdwan Kaima Rice</p>
                             </div>
                         </div>
                         <span class="brd-card-span w-100 d-block position-relative">
@@ -141,19 +141,19 @@ function active($currect_page){
                         <div class="d-flex justify-content-around p-5 flex-wrap flex-md-nowrap">
                             <div class="text-center py-3 py-md-0">
                                 <img class="img-fluid brd-pro-img" src="assets/images/brd-akbarcity-rice-1.png" alt="">
-                                <p class="about-banner-p-1 mt-3 text-black">Supreme White Sella</p>
+                                <p class="about-banner-p-1 mt-3 text-black">XXL White Basmati Rice</p>
                             </div>
                             <div class="text-center py-3 py-md-0">
                                 <img class="img-fluid brd-pro-img" src="assets/images/brd-akbarcity-rice-2.png" alt="">
-                                <p class="about-banner-p-1 mt-3 text-black">Premium White Sella</p>
+                                <p class="about-banner-p-1 mt-3 text-black">Rozana White Basmati Rice</p>
                             </div>
                             <div class="text-center py-3 py-md-0">
                                 <img class="img-fluid brd-pro-img" src="assets/images/brd-akbarcity-rice-3.png" alt="">
-                                <p class="about-banner-p-1 mt-3 text-black">Supreme Golden Sella</p>
+                                <p class="about-banner-p-1 mt-3 text-black">Rozana Golden Basmati Rice</p>
                             </div>
                             <div class="text-center py-3 py-md-0">
                                 <img class="img-fluid brd-pro-img" src="assets/images/brd-akbarcity-rice-4.png" alt="">
-                                <p class="about-banner-p-1 mt-3 text-black">Premium Golden Sella</p>
+                                <p class="about-banner-p-1 mt-3 text-black">XXL Golden Basmati Rice</p>
                             </div>
                         </div>
                         <span class="brd-card-span w-100 d-block position-relative">

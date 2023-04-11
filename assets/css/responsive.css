@@ -4,10 +4,6 @@
     }
 }
 @media (max-width: 1244px) {
-    .nav-a{
-        margin: 0px 0px !important;
-        padding: 6px !important;
-    }
     .banner-rice1-img,.banner-rice2-img,.footer-rice1-img,.footer-rice2-img{
         width: 15%;
     }

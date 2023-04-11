@@ -71,7 +71,7 @@ function active($currect_page){
                     <div class="col-lg-6 col-md-6 col-sm-6 bg-white d-flex rounded-start-5 h-s2-product-div filterDiv overflow-hidden akbar">
                         <div class="p-5 pe-0 align-self-end h-s2-fliter-text-div">
                             <h4 class="h-s2-product-h fs-3 mb-3">Akbar xxl gold 26KG</h4>
-                            <p  class="h-s2-product-p m-0">Food Oils</p>
+                            <p  class="h-s2-product-p m-0">Basmati Rice</p>
                         </div>
                         <div class="h-s2-filter-img">
                             <img class="img-fluid" src="assets/images/Akbarxxlgold26KG.png" alt="">
@@ -83,13 +83,13 @@ function active($currect_page){
                         </div>
                         <div class="p-5 ps-0 h-s2-fliter-text-div">
                             <h4 class="h-s2-product-h fs-3 mb-3">Akbar xxl white 26KG</h4>
-                            <p  class="h-s2-product-p m-0">Food Oils</p>
+                            <p  class="h-s2-product-p m-0">Basmati Rice</p>
                         </div>
                     </div>
                     <div class="col-lg-6 col-md-6 col-sm-6 bg-white d-flex rounded-start-5 h-s2-product-div filterDiv overflow-hidden akbar">
                         <div class="p-5 pe-0 align-self-end h-s2-fliter-text-div">
                             <h4 class="h-s2-product-h fs-3 mb-3">Akbar xxl gold 26KG</h4>
-                            <p  class="h-s2-product-p m-0">Food Oils</p>
+                            <p  class="h-s2-product-p m-0">Basmati Rice</p>
                         </div>
                         <div class="h-s2-filter-img">
                             <img class="img-fluid" src="assets/images/Akbarxxlgold26KG-2.png" alt="">
@@ -101,13 +101,13 @@ function active($currect_page){
                         </div>
                         <div class="p-5 ps-0 h-s2-fliter-text-div">
                             <h4 class="h-s2-product-h fs-3 mb-3">Akbar rozana white 26KG</h4>
-                            <p  class="h-s2-product-p m-0">Food Oils</p>
+                            <p  class="h-s2-product-p m-0">Basmati Rice</p>
                         </div>
                     </div>
                     <div class="col-lg-6 col-md-6 col-sm-6 bg-white d-flex rounded-start-5 h-s2-product-div filterDiv overflow-hidden alhind">
                         <div class="p-5 pe-0 align-self-end h-s2-fliter-text-div">
                             <h4 class="h-s2-product-h fs-3 mb-3">Alhind bukhari</h4>
-                            <p  class="h-s2-product-p m-0">Food Oils</p>
+                            <p  class="h-s2-product-p m-0">Basmati Rice</p>
                         </div>
                         <div class="h-s2-filter-img">
                             <img class="img-fluid" src="assets/images/h-alhind-rice-1.png" alt="">
@@ -119,13 +119,13 @@ function active($currect_page){
                         </div>
                         <div class="p-5 ps-0 h-s2-fliter-text-div">
                             <h4 class="h-s2-product-h fs-3 mb-3">Alhind golden sella</h4>
-                            <p  class="h-s2-product-p m-0">Food Oils</p>
+                            <p  class="h-s2-product-p m-0">Basmati Rice</p>
                         </div>
                     </div>
                     <div class="col-md-6 offset-md-3 col-12 bg-white d-flex rounded-5 h-s2-product-div filterDiv overflow-hidden alif-laila">
                         <div class="p-5 pe-0 align-self-end h-s2-fliter-text-div">
-                            <h4 class="h-s2-product-h fs-3 mb-3">Alif laila burdwan khaima</h4>
-                            <p  class="h-s2-product-p m-0">Food Oils</p>
+                            <h4 class="h-s2-product-h fs-3 mb-3">Alif laila burdwan kaima</h4>
+                            <p  class="h-s2-product-p m-0">kaima Rice</p>
                         </div>
                         <div class="h-s2-filter-img">
                             <img class="img-fluid" src="assets/images/h-aliflaila-rice.png" alt="">
@@ -134,7 +134,7 @@ function active($currect_page){
                     <div class="col-md-6 offset-md-3 col-12 bg-white d-flex rounded-5 h-s2-product-div filterDiv overflow-hidden firdous">
                         <div class="p-5 pe-0 align-self-end h-s2-fliter-text-div">
                             <h4 class="h-s2-product-h fs-3 mb-3">Firdous biriyani rice</h4>
-                            <p  class="h-s2-product-p m-0">Food Oils</p>
+                            <p  class="h-s2-product-p m-0">Biriyani Rice</p>
                         </div>
                         <div class="h-s2-filter-img">
                             <img class="img-fluid" src="assets/images/h-firdouse-rice-1.png" alt="">
@@ -143,7 +143,7 @@ function active($currect_page){
                     <div class="col-md-6 offset-md-3 col-12 bg-white d-flex rounded-5 h-s2-product-div filterDiv overflow-hidden abusalam">
                         <div class="p-5 pe-0 align-self-end h-s2-fliter-text-div">
                             <h4 class="h-s2-product-h fs-3 mb-3">Abusalam biriyani rice</h4>
-                            <p  class="h-s2-product-p m-0">Food Oils</p>
+                            <p  class="h-s2-product-p m-0">Biriyani Rice</p>
                         </div>
                         <div class="h-s2-filter-img">
                             <img class="img-fluid" src="assets/images/h-abusalam-rice-1.png" alt="">
