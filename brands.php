@@ -39,11 +39,11 @@ function active($currect_page){
         <div class="container">
             <p class="abt-s1-p fs-2 py-4 py-lg-5 mt-3 mb-0">From our family to yours, our rice brands are chosen with care and a commitment to excellence in taste, texture, and nutrition.</p>
             <div class="mt-1 d-flex align-items-center justify-content-around justify-content-lg-between flex-wrap">
-                <img class="py-3" src="assets/images/brd-firdous-logo.svg" alt="">
-                <img class="py-3" src="assets/images/brd-alhind-logo.svg" alt="">
-                <img class="py-3" src="assets/images/brd-aliflaila-logo.svg" alt="">
+                <img class="py-3" src="assets/images/brd-firdous-logo.png" alt="">
+                <img class="py-3" src="assets/images/brd-alhind-logo.png" alt="">
+                <img class="py-3" src="assets/images/brd-aliflaila-logo.png" alt="">
                 <img class="py-3" src="assets/images/brd-akbarcity-logo.png" alt="">
-                <img class="py-3" src="assets/images/brd-abusalam-logo.svg" alt="">
+                <img class="py-3" src="assets/images/brd-abusalam-logo.png" alt="">
             </div>
         </div>
     </section>
@@ -62,7 +62,7 @@ function active($currect_page){
                         </div>
                         <span class="brd-card-span w-100 d-block position-relative">
                             <div class="brd-card-logo-div position-absolute translate-middle d-flex align-items-center justify-content-center p-2">
-                                <img class="img-fluid" src="assets/images/brd-firdous-logo.svg" alt="">
+                                <img class="img-fluid" src="assets/images/brd-firdous-logo.png" alt="">
                             </div>
                         </span>
                         <div class="p-5 position-relative overflow-hidden">
@@ -86,7 +86,7 @@ function active($currect_page){
                         </div>
                         <span class="brd-card-span w-100 d-block position-relative">
                             <div class="brd-card-logo-div position-absolute translate-middle d-flex align-items-center justify-content-center p-2">
-                                <img class="img-fluid" src="assets/images/brd-alhind-logo.svg" alt="">
+                                <img class="img-fluid" src="assets/images/brd-alhind-logo.png" alt="">
                             </div>
                         </span>
                         <div class="p-5 position-relative overflow-hidden">
@@ -106,7 +106,7 @@ function active($currect_page){
                         </div>
                         <span class="brd-card-span w-100 d-block position-relative">
                             <div class="brd-card-logo-div position-absolute translate-middle d-flex align-items-center justify-content-center p-3">
-                                <img class="img-fluid" src="assets/images/brd-abusalam-logo.svg" alt="">
+                                <img class="img-fluid" src="assets/images/brd-abusalam-logo.png" alt="">
                             </div>
                         </span>
                         <div class="p-5 position-relative overflow-hidden">
@@ -126,7 +126,7 @@ function active($currect_page){
                         </div>
                         <span class="brd-card-span w-100 d-block position-relative">
                             <div class="brd-card-logo-div position-absolute translate-middle d-flex align-items-center justify-content-center p-2">
-                                <img class="img-fluid" src="assets/images/brd-aliflaila-logo.svg" alt="">
+                                <img class="img-fluid" src="assets/images/brd-aliflaila-logo.png" alt="">
                             </div>
                         </span>
                         <div class="p-5 position-relative overflow-hidden">
