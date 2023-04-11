@@ -88,7 +88,7 @@ function active($currect_page){
                     </div>
                     <div class="col-lg-6 col-md-6 col-sm-6 bg-white d-flex rounded-start-5 h-s2-product-div filterDiv overflow-hidden akbar">
                         <div class="p-5 pe-0 align-self-end h-s2-fliter-text-div">
-                            <h4 class="h-s2-product-h fs-3 mb-3">Akbar xxl gold 26KG</h4>
+                            <h4 class="h-s2-product-h fs-3 mb-3">Akbar xxl white 26KG</h4>
                             <p  class="h-s2-product-p m-0">Basmati Rice</p>
                         </div>
                         <div class="h-s2-filter-img">
