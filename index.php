@@ -113,8 +113,7 @@ function active($currect_page){
     <?php include 'assets/includes/footer.php';?>
 
     <!-- javascript -->
-        <!-- bootstrap  -->
-        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
+        
         <!-- nav-bg-change  -->
         <script>
             document.getElementById("desktop-nav-js").classList.remove("about-nav-bg");

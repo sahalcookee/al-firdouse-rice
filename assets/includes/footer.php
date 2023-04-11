@@ -8,7 +8,7 @@
                     <div class="pt-3">
                         <p class="footer-p pt-5 fs-5">2118 Thornridge Cir. Syracuse, Connecticut 35624</p>
                             <div class="z-3 position-relative my-5 pb-5">
-                                <a class="h-banner-butn text-decoration-none p-3 fs-5 rounded rounded-5 text-white" href="#">Get an enquiry<img class="ps-2 butn-arrow" src="assets/images/h-banner-butn-arrow.png" alt=""></a>
+                                <a class="h-banner-butn text-decoration-none p-3 fs-5 rounded rounded-5 text-white" href="#">Get an enquiry<img class="ps-2 butn-arrow" src="assets/images/h-banner-butn-arrow.svg" alt=""></a>
                             </div>
                         <div class="d-flex justify-content-center my-4">
                             <a class="mx-2 footer-social" href="#"><img src="assets/images/footer-facebook.png" alt=""></a>
@@ -18,10 +18,10 @@
                         <div class="pb-5">
                             <a class="text-decoration-none footer-nav mx-2 mx-sm-4" href="index.php">Home</a>
                             <a class="text-decoration-none footer-nav mx-2 mx-sm-4" href="about.php">About</a>
-                            <a class="text-decoration-none footer-nav mx-2 mx-sm-4" href="#">Brands</a>
+                            <a class="text-decoration-none footer-nav mx-2 mx-sm-4" href="brands.php">Brands</a>
                             <a class="text-decoration-none footer-nav mx-2 mx-sm-4" href="#">Products Range</a>
                             <a class="text-decoration-none footer-nav mx-2 mx-sm-4" href="#">Insights</a>
-                            <a class="text-decoration-none footer-nav mx-2 mx-sm-4" href="#">Contacts</a>
+                            <a class="text-decoration-none footer-nav mx-2 mx-sm-4" href="contacts.php">Contacts</a>
                         </div>
                     </div>
                 </div>
@@ -33,3 +33,7 @@
         <img class="footer-rice1-img text-center position-absolute d-none d-sm-block" src="assets/images/h-footer-rice-1.png" alt="">
         <img class="footer-rice2-img text-center position-absolute d-none d-sm-block" src="assets/images/h-footer-rice-2.png" alt="">
     </div>
+
+    <!-- javascript -->
+        <!-- bootstrap  -->
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>

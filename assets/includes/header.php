@@ -22,7 +22,7 @@
                 <div class="col-lg-4 d-flex">
                     <a class="text-decoration-none p-2 mx-2 text-dark nav-a <?php active('index.php');?>" href="index.php">Home</a>
                     <a class="text-decoration-none p-2 mx-3 text-dark nav-a <?php active('about.php');?>" href="about.php">About</a>
-                    <a class="text-decoration-none p-2 mx-3 text-dark nav-a <?php active('brands.php');?>" href="#">Brands</a>
+                    <a class="text-decoration-none p-2 mx-3 text-dark nav-a <?php active('brands.php');?>" href="brands.php">Brands</a>
                 </div>
                 <div class="col-lg-4 text-center position-relative">
                     <a href="#"><img class="nav-logo-img position-absolute start-50 translate-middle" src="assets/images/logo.svg" alt=""></a>
@@ -30,7 +30,7 @@
                 <div class="col-lg-4 justify-content-end d-flex">
                     <a class="text-decoration-none p-2 mx-2 text-dark nav-a <?php active('products.php');?>" href="#">Products Range</a>
                     <a class="text-decoration-none p-2 mx-3 text-dark nav-a <?php active('insights.php');?>" href="#">Insights</a>
-                    <a class="text-decoration-none p-2 mx-3 text-dark nav-a <?php active('contacts.php');?>" href="#">Contacts</a>
+                    <a class="text-decoration-none p-2 mx-3 text-dark nav-a <?php active('contacts.php');?>" href="contacts.php">Contacts</a>
                 </div>
             </div>
         </div>
@@ -50,10 +50,10 @@
                     <div class="align-items-center d-flex flex-column resp-nav-a-div">
                         <a class="text-decoration-none p-2 mx-2 text-dark nav-a <?php active('index.php');?>" href="index.php">Home</a>
                         <a class="text-decoration-none p-2 mx-3 text-dark nav-a <?php active('about.php');?>" href="about.php">About</a>
-                        <a class="text-decoration-none p-2 mx-3 text-dark nav-a <?php active('brands.php');?>" href="#">Brands</a>
+                        <a class="text-decoration-none p-2 mx-3 text-dark nav-a <?php active('brands.php');?>" href="brands.php">Brands</a>
                         <a class="text-decoration-none p-2 mx-2 text-dark nav-a <?php active('products.php');?>" href="#">Products Range</a>
                         <a class="text-decoration-none p-2 mx-3 text-dark nav-a <?php active('insights.php');?>" href="#">Insights</a>
-                        <a class="text-decoration-none p-2 mx-3 text-dark nav-a <?php active('contacts.php');?>" href="#">Contacts</a>
+                        <a class="text-decoration-none p-2 mx-3 text-dark nav-a <?php active('contacts.php');?>" href="contacts.php">Contacts</a>
                     </div>
                 </div>
                 </div>
