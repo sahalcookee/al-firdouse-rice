@@ -20,15 +20,15 @@
         <div class="container-fluid d-none d-lg-block">
             <div id="desktop-nav-js" class="nav-bg about-nav-bg mt-4 row px-4 py-4 border border-1 border-top-0 border-bottom-0 mb-5">
                 <div class="col-lg-4 d-flex">
-                    <a class="text-decoration-none p-2 mx-4 text-dark nav-a fs-5 <?php active('index.php');?>" href="index">Home</a>
-                    <a class="text-decoration-none p-2 mx-4 text-dark nav-a fs-5 <?php active('about.php');?>" href="about">About</a>
+                    <a class="text-decoration-none p-2 mx-4 text-dark nav-a fs-5 <?php active('index');?>" href="index">Home</a>
+                    <a class="text-decoration-none p-2 mx-4 text-dark nav-a fs-5 <?php active('about');?>" href="about">About</a>
                 </div>
                 <div class="col-lg-4 text-center position-relative">
                     <a href="index.php"><img class="nav-logo-img position-absolute start-50 translate-middle" src="assets/images/logo.svg" alt=""></a>
                 </div>
                 <div class="col-lg-4 justify-content-end d-flex">
-                    <a class="text-decoration-none p-2 mx-4 text-dark nav-a fs-5 <?php active('brands.php');?>" href="brands">Brands</a>
-                    <a class="text-decoration-none p-2 mx-4 text-dark nav-a fs-5 <?php active('contacts.php');?>" href="contacts">Contact Us</a>
+                    <a class="text-decoration-none p-2 mx-4 text-dark nav-a fs-5 <?php active('brands');?>" href="brands">Brands</a>
+                    <a class="text-decoration-none p-2 mx-4 text-dark nav-a fs-5 <?php active('contacts');?>" href="contacts">Contact Us</a>
                 </div>
             </div>
         </div>
@@ -46,10 +46,10 @@
                 </div>
                 <div class="offcanvas-body">
                     <div class="align-items-center d-flex flex-column resp-nav-a-div">
-                        <a class="text-decoration-none p-2 mx-2 text-dark nav-a <?php active('index.php');?>" href="index">Home</a>
-                        <a class="text-decoration-none p-2 mx-3 text-dark nav-a <?php active('about.php');?>" href="about">About</a>
-                        <a class="text-decoration-none p-2 mx-3 text-dark nav-a <?php active('brands.php');?>" href="brands">Brands</a>
-                        <a class="text-decoration-none p-2 mx-3 text-dark nav-a <?php active('contacts.php');?>" href="contacts">Contact Us</a>
+                        <a class="text-decoration-none p-2 mx-2 text-dark nav-a <?php active('index');?>" href="index">Home</a>
+                        <a class="text-decoration-none p-2 mx-3 text-dark nav-a <?php active('about');?>" href="about">About</a>
+                        <a class="text-decoration-none p-2 mx-3 text-dark nav-a <?php active('brands');?>" href="brands">Brands</a>
+                        <a class="text-decoration-none p-2 mx-3 text-dark nav-a <?php active('contacts');?>" href="contacts">Contact Us</a>
                     </div>
                 </div>
                 </div>
