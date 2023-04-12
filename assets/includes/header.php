@@ -28,7 +28,7 @@
                 </div>
                 <div class="col-lg-4 justify-content-end d-flex">
                     <a class="text-decoration-none p-2 mx-4 text-dark nav-a fs-5 <?php active('brands.php');?>" href="brands.php">Brands</a>
-                    <a class="text-decoration-none p-2 mx-4 text-dark nav-a fs-5 <?php active('contacts.php');?>" href="contacts.php">Contacts</a>
+                    <a class="text-decoration-none p-2 mx-4 text-dark nav-a fs-5 <?php active('contacts.php');?>" href="contacts.php">Contact Us</a>
                 </div>
             </div>
         </div>
@@ -49,7 +49,7 @@
                         <a class="text-decoration-none p-2 mx-2 text-dark nav-a <?php active('index.php');?>" href="index.php">Home</a>
                         <a class="text-decoration-none p-2 mx-3 text-dark nav-a <?php active('about.php');?>" href="about.php">About</a>
                         <a class="text-decoration-none p-2 mx-3 text-dark nav-a <?php active('brands.php');?>" href="brands.php">Brands</a>
-                        <a class="text-decoration-none p-2 mx-3 text-dark nav-a <?php active('contacts.php');?>" href="contacts.php">Contacts</a>
+                        <a class="text-decoration-none p-2 mx-3 text-dark nav-a <?php active('contacts.php');?>" href="contacts.php">Contact Us</a>
                     </div>
                 </div>
                 </div>
