@@ -16,10 +16,10 @@
                             <a class="mx-2 footer-social" href="#"><img src="assets/images/footer-youtube.png" alt=""></a>
                         </div>
                         <div class="pb-5">
-                            <a class="text-decoration-none footer-nav mx-2 mx-sm-4" href="index.php">Home</a>
-                            <a class="text-decoration-none footer-nav mx-2 mx-sm-4" href="about.php">About</a>
-                            <a class="text-decoration-none footer-nav mx-2 mx-sm-4" href="brands.php">Brands</a>
-                            <a class="text-decoration-none footer-nav mx-2 mx-sm-4" href="contacts.php">Contact Us</a>
+                            <a class="text-decoration-none footer-nav mx-2 mx-sm-4" href="index">Home</a>
+                            <a class="text-decoration-none footer-nav mx-2 mx-sm-4" href="about">About</a>
+                            <a class="text-decoration-none footer-nav mx-2 mx-sm-4" href="brands">Brands</a>
+                            <a class="text-decoration-none footer-nav mx-2 mx-sm-4" href="contacts">Contact Us</a>
                         </div>
                     </div>
                 </div>
