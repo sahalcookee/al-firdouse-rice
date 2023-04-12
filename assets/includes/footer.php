@@ -6,13 +6,13 @@
                         <a href="index.php"><img class="position-absolute footer-logo translate-middle" src="assets/images/footer-logo.svg" alt=""></a>
                     </div>
                     <div class="pt-3">
-                        <a href="#" class="footer-p pt-5 fs-5 d-inline-block text-decoration-none">2118 Thornridge Cir. Syracuse, Connecticut 35624</a>
+                        <a href="#" class="footer-p pt-5 fs-5 d-inline-block text-decoration-none">667,GROUNDFLOOR,SECTOR4,KARNAL,HARIYANA,PIN 132001</a>
                             <div class="z-3 position-relative my-5 pb-5">
                                 <a class="h-banner-butn text-decoration-none p-3 fs-5 rounded rounded-5 text-white" href="contacts.php">Get an enquiry<img class="ps-2 butn-arrow" src="assets/images/h-banner-butn-arrow.svg" alt=""></a>
                             </div>
                         <div class="d-flex justify-content-center my-4">
-                            <a class="mx-2 footer-social" href="#"><img src="assets/images/footer-facebook.png" alt=""></a>
-                            <a class="mx-2 footer-social" href="#"><img src="assets/images/footer-insta.png" alt=""></a>
+                            <a class="mx-2 footer-social" href="https://www.facebook.com/alfirdousrice" target="_blank"><img src="assets/images/footer-facebook.png" alt=""></a>
+                            <a class="mx-2 footer-social" href="https://www.instagram.com/alfirdous_foods/" target="_blank"><img src="assets/images/footer-insta.png" alt=""></a>
                             <a class="mx-2 footer-social" href="#"><img src="assets/images/footer-youtube.png" alt=""></a>
                         </div>
                         <div class="pb-5">

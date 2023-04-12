@@ -42,13 +42,13 @@ function active($currect_page){
                     <div class="col-lg-7 p-5 text-start position-relative">
                         <p class="abt-s1-p1 text-uppercase">Get in touch with the Rice Experts</p>
                         <h3 class="abt-s1-h mb-3 mb-lg-5 pb-3">Contact<br>Information</h3>
-                        <a href="#" class="footer-p fs-5 d-block text-decoration-none mb-3">2118 Thornridge Cir. Syracuse, Connecticut 35624</a>
-                        <a href="#" class="footer-p fs-5 d-block text-decoration-none mb-3">+91 9374653833</a>
-                        <a href="#" class="footer-p fs-5 d-block text-decoration-none mb-3">alfirdousequalityrice@gmail.com</a>
+                        <a href="#" class="footer-p fs-5 d-block text-decoration-none mb-3">667,GROUNDFLOOR,SECTOR4,KARNAL,HARIYANA,PIN 132001</a>
+                        <a href="tel:7736877685" class="footer-p fs-5 d-block text-decoration-none mb-3">+91 7736877685</a>
+                        <a href="mailto:info@alfirdousrice.com" class="footer-p fs-5 d-block text-decoration-none mb-3">info@alfirdousrice.com</a>
                         <h6 class="about-banner-p-1 cnt-s1-follow mb-1 text-uppercase mt-3 mt-lg-5 pt-5">follow us on</h6>
                         <div class="d-flex justify-content-start my-3">
-                            <a class="me-4 footer-social" href="#"><img src="assets/images/footer-facebook.png" alt=""></a>
-                            <a class="me-4 footer-social" href="#"><img src="assets/images/footer-insta.png" alt=""></a>
+                            <a class="me-4 footer-social" href="https://www.facebook.com/alfirdousrice" target="_blank"><img src="assets/images/footer-facebook.png" alt=""></a>
+                            <a class="me-4 footer-social" href="https://www.instagram.com/alfirdous_foods/" target="_blank"><img src="assets/images/footer-insta.png" alt=""></a>
                             <a class="me-4 footer-social" href="#"><img src="assets/images/footer-youtube.png" alt=""></a>
                         </div>
                         <img class="position-absolute bottom-0 end-0" src="assets/images/h-s1-grain-img.png" alt="">
