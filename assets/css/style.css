@@ -196,6 +196,10 @@ body{
     color: var(--link-hover-color);
     transition: all 0.3s ease;
 }
+.footer-p-no-link{
+    color: var(--footer-p-color);
+    font-family: var(--cabinet-m);
+}
 .footer-logo{
     -webkit-filter: drop-shadow(32px 28px 44px rgb(0 0 0 / 10%));
     top: -44px;

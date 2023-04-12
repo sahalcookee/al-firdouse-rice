@@ -6,7 +6,7 @@
                         <a href="index.php"><img class="position-absolute footer-logo translate-middle" src="assets/images/footer-logo.svg" alt=""></a>
                     </div>
                     <div class="pt-3">
-                        <a href="#" class="footer-p pt-5 fs-5 d-inline-block text-decoration-none">667,GROUNDFLOOR,SECTOR4,KARNAL,HARIYANA,PIN 132001</a>
+                        <a class="footer-p-no-link pt-5 fs-5 d-inline-block text-decoration-none">#667,GROUNDFLOOR,SECTOR4,KARNAL,HARIYANA,PIN 132001</a>
                             <div class="z-3 position-relative my-5 pb-5">
                                 <a class="h-banner-butn text-decoration-none p-3 fs-5 rounded rounded-5 text-white" href="contacts.php">Get an enquiry<img class="ps-2 butn-arrow" src="assets/images/h-banner-butn-arrow.svg" alt=""></a>
                             </div>

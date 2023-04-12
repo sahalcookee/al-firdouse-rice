@@ -42,7 +42,7 @@ function active($currect_page){
                     <div class="col-lg-7 p-5 text-start position-relative">
                         <p class="abt-s1-p1 text-uppercase">Get in touch with the Rice Experts</p>
                         <h3 class="abt-s1-h mb-3 mb-lg-5 pb-3">Contact<br>Information</h3>
-                        <a href="#" class="footer-p fs-5 d-block text-decoration-none mb-3">667,GROUNDFLOOR,SECTOR4,KARNAL,HARIYANA,PIN 132001</a>
+                        <a class="footer-p-no-link fs-5 d-block text-decoration-none mb-3">#667,GROUNDFLOOR,SECTOR4,KARNAL,HARIYANA,PIN 132001</a>
                         <a href="tel:7736877685" class="footer-p fs-5 d-block text-decoration-none mb-3">+91 7736877685</a>
                         <a href="mailto:info@alfirdousrice.com" class="footer-p fs-5 d-block text-decoration-none mb-3">info@alfirdousrice.com</a>
                         <h6 class="about-banner-p-1 cnt-s1-follow mb-1 text-uppercase mt-3 mt-lg-5 pt-5">follow us on</h6>
