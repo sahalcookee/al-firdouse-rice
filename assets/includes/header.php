@@ -33,7 +33,7 @@
             </div>
         </div>
         <!-- responsive-nav  -->
-        <nav class="navbar sticky-top d-lg-none">
+        <nav class="navbar d-lg-none">
             <div class="container-fluid">
                 <a class="navbar-brand" href="index.php"><img class="w-75 resp-logo" src="assets/images/logo.svg" alt=""></a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbar" aria-controls="offcanvasNavbar">
